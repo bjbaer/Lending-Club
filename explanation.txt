@@ -1,0 +1,8 @@
+The Amount.Requested boxplot shows that the mean requested is around 10,000 dollars and 75% of loans were between
+around 6,000 dollars to 17,000 dollars. 
+Looking at the histogram shows that the data has a longer right tail, with a small amount of loans that are around 3x or 
+more then the mean loan requested. This is because the data is bounded by 1,000 on the left, as the data seems to show
+that is the smallest loan you can request.
+A notable differene here between this and loan amount given is that many loans did not recieve any funding and has a value 
+of zero dollars.
+The QQ plot shows a high degree of normaility, which was also true for the amount given.
